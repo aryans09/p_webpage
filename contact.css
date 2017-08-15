@@ -1,0 +1,26 @@
+body {
+	background:url("https://www.isitonline.com/wp-content/uploads/2016/03/contactus-background-right.jpg")no-repeat;
+}
+h2 {
+  font-size:40px;
+  font-family:'Sedgwick Ave', cursive;
+  color:#3C2952;
+}
+ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	display:inline;
+   }
+  li a{
+  color: #14213D;
+  display:inline-block;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
+  text-decoration:none;
+  position:relative;
+}
+  
